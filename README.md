@@ -1,4 +1,4 @@
-# 🇮🇳 India Union Budget Analysis — 2017 to 2027
+# The Indian Union Budget Analysis — 2017 to 2027
 ### *A Data-Driven Policy Examination of a Decade of Fiscal Priorities*
 
 ---
@@ -9,7 +9,7 @@
 
 ## 📊 Live Interactive Dashboard
 
-**[→ Open the Dashboard](https://[your-username].github.io/india-budget-analysis/)**
+**[→ Open the Dashboard](https://Debajyoty-Sen.github.io/india-budget-analysis/)**
 
 Built with Chart.js and vanilla HTML/CSS. No installation required — runs entirely in the browser.
 
